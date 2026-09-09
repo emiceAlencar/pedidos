@@ -1,0 +1,22 @@
+{
+  "name": "pedidosproj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiceAlencar/pedidos.git"
+  },
+  "author": "Clovis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiceAlencar/pedidos/issues"
+  },
+  "homepage": "https://github.com/emiceAlencar/pedidos#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
